@@ -1,3 +1,5 @@
+2023 Note: Due to recent changes at exTwitter, it's entirely possible this code no longer functions. As it is also no longer needed, it is no longer maintained. It remains here as a historical record of work done while I pursue employment.
+
 # Donaldson Company Twitter Analysis
 
 ## Introduction
